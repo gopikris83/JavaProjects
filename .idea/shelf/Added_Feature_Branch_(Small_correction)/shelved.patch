@@ -1,0 +1,16 @@
+Index: src/com/ford/MyPackage/HelloWorld.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/ford/MyPackage/HelloWorld.java	(date 1584525937825)
++++ src/com/ford/MyPackage/HelloWorld.java	(date 1584525937825)
+@@ -0,0 +1,8 @@
++package com.ford.MyPackage;
++
++public class HelloWorld {
++    public static void main(String arg[]){
++        System.out.println(" Hi Welcome to Java");
++    }
++
++}

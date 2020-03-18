@@ -1,0 +1,271 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ArtifactsWorkspaceSettings\">\r\n    <artifacts-to-build>\r\n      <artifact name=\"MyJavaProjects:jar\" />\r\n    </artifacts-to-build>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c8e96600-14ef-463b-99bc-316185bf12d7\" name=\"Default Changelist\" comment=\"\" />\r\n    <ignored path=\"$PROJECT_DIR$/out/\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"DefaultGradleProjectSettings\">\r\n    <option name=\"isMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/com/ford/MyPackage/GenericLambda.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"289\">\r\n              <caret line=\"17\" column=\"50\" selection-start-line=\"17\" selection-start-column=\"50\" selection-end-line=\"17\" selection-end-column=\"50\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/com/ford/MyPackage/PaperStrip.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"306\">\r\n              <caret line=\"18\" column=\"23\" selection-start-line=\"18\" selection-start-column=\"23\" selection-end-line=\"18\" selection-end-column=\"23\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/com/ford/MyPackage/Train.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"153\">\r\n              <caret line=\"9\" column=\"24\" selection-start-line=\"9\" selection-start-column=\"24\" selection-end-line=\"9\" selection-end-column=\"24\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/LamdaInterface.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/MyPackage/LamdaInterface.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/MyPackage/GenericLambda.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/com/ford/MyPackage/GenericLambda.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/com/ford/MyPackage/PaperStrip.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/com/ford/MyPackage/Train.java\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"y\" value=\"23\" />\r\n    <option name=\"width\" value=\"1920\" />\r\n    <option name=\"height\" value=\"977\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"PackagesPane\" />\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"MyJavaProjects\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"MyJavaProjects\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"MyJavaProjects\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"MyJavaProjects\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Artifacts\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\MyJavaProjects\\src\\MyPackage\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Train\">\r\n    <configuration name=\"GenericLambda (1)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.ford.MyPackage.GenericLambda\" />\r\n      <module name=\"MyJavaProjects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.ford.MyPackage.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"GenericLambda\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"MyPackage.GenericLambda\" />\r\n      <module name=\"MyJavaProjects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"MyPackage.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"PaperStrip\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.ford.MyPackage.PaperStrip\" />\r\n      <module name=\"MyJavaProjects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.ford.MyPackage.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Train\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.ford.MyPackage.Train\" />\r\n      <module name=\"MyJavaProjects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.ford.MyPackage.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MyJavaProjectsApp\" type=\"JarApplication\">\r\n      <option name=\"JAR_PATH\" value=\"$PROJECT_DIR$/out/artifacts/MyJavaProjects_jar/MyJavaProjects.jar\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"D:\\MyJavaProjects\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\r\n      <method v=\"2\">\r\n        <option name=\"BuildArtifacts\" enabled=\"true\">\r\n          <artifact name=\"MyJavaProjects:jar\" />\r\n        </option>\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"Java Scratch\">\r\n      <envs>\r\n        <env name=\"JAVA_HOME\" value=\"C:\\Program Files\\Java\\jdk1.8.0_181\" />\r\n      </envs>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.GenericLambda\" />\r\n      <item itemvalue=\"Application.GenericLambda (1)\" />\r\n      <item itemvalue=\"Application.PaperStrip\" />\r\n      <item itemvalue=\"Application.Train\" />\r\n      <item itemvalue=\"JAR Application.MyJavaProjectsApp\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Train\" />\r\n        <item itemvalue=\"Application.PaperStrip\" />\r\n        <item itemvalue=\"Application.GenericLambda (1)\" />\r\n        <item itemvalue=\"Application.GenericLambda\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c8e96600-14ef-463b-99bc-316185bf12d7\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1584359285023</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1584359285023</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-8\" y=\"-8\" width=\"1936\" height=\"1056\" extended-state=\"7\" />\r\n    <layout>\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.25799572\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Image Layers\" order=\"2\" />\r\n      <window_info id=\"Designer\" order=\"3\" />\r\n      <window_info id=\"UI Designer\" order=\"4\" />\r\n      <window_info id=\"Capture Tool\" order=\"5\" />\r\n      <window_info id=\"Favorites\" order=\"6\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" weight=\"0.32900432\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"7\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"8\" sideWeight=\"0.5010661\" side_tool=\"true\" visible=\"true\" weight=\"0.32900432\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"9\" sideWeight=\"0.4989339\" visible=\"true\" weight=\"0.32900432\" />\r\n      <window_info anchor=\"bottom\" id=\"Messages\" order=\"10\" weight=\"0.32900432\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Palette\" order=\"3\" />\r\n      <window_info anchor=\"right\" id=\"Maven\" order=\"4\" />\r\n      <window_info anchor=\"right\" id=\"Theme Preview\" order=\"5\" />\r\n      <window_info anchor=\"right\" id=\"Capture Analysis\" order=\"6\" />\r\n      <window_info anchor=\"right\" id=\"Palette&#9;\" order=\"7\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/src/MyPackage/LamdaInterface.java\" />\r\n    <entry file=\"file://$PROJECT_DIR$/.idea/vcs.xml\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/com/ford/MyPackage/GenericLambda.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"289\">\r\n          <caret line=\"17\" column=\"50\" selection-start-line=\"17\" selection-start-column=\"50\" selection-end-line=\"17\" selection-end-column=\"50\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/com/ford/MyPackage/PaperStrip.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"306\">\r\n          <caret line=\"18\" column=\"23\" selection-start-line=\"18\" selection-start-column=\"23\" selection-end-line=\"18\" selection-end-column=\"23\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/com/ford/MyPackage/Train.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"153\">\r\n          <caret line=\"9\" column=\"24\" selection-start-line=\"9\" selection-start-column=\"24\" selection-end-line=\"9\" selection-end-column=\"24\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n  <component name=\"masterDetails\">\r\n    <states>\r\n      <state key=\"ArtifactsStructureConfigurable.UI\">\r\n        <settings>\r\n          <artifact-editor />\r\n          <last-edited>MyJavaProjects:jar</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n                <option value=\"0.5\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"FacetStructureConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"GlobalLibrariesConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"JdkListConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"ModuleStructureConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"ProjectJDKs.UI\">\r\n        <settings>\r\n          <last-edited>1.8</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"ProjectLibrariesConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n    </states>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1584520855000)
++++ .idea/workspace.xml	(date 1584526292784)
+@@ -6,7 +6,11 @@
+     </artifacts-to-build>
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c8e96600-14ef-463b-99bc-316185bf12d7" name="Default Changelist" comment="" />
++    <list default="true" id="c8e96600-14ef-463b-99bc-316185bf12d7" name="Default Changelist" comment="Added Feature Branch (Small correction)">
++      <change afterPath="$PROJECT_DIR$/src/com/ford/MyPackage/HelloWorld.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -37,11 +41,24 @@
+           </provider>
+         </entry>
+       </file>
+-      <file pinned="false" current-in-tab="true">
++      <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/src/com/ford/MyPackage/Train.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="153">
+-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
++            <state relative-caret-position="238">
++              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/src/com/ford/MyPackage/HelloWorld.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="136">
++              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
++              <folding>
++                <element signature="e#97#98#0" expanded="true" />
++                <element signature="e#154#155#0" expanded="true" />
++              </folding>
+             </state>
+           </provider>
+         </entry>
+@@ -56,8 +73,18 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="gopi &lt;gopikrishna.83@gmail.com&gt;" />
++      </list>
++    </option>
+     <option name="ROOT_SYNC" value="SYNC" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+   </component>
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+@@ -68,6 +95,7 @@
+         <option value="$PROJECT_DIR$/src/com/ford/MyPackage/GenericLambda.java" />
+         <option value="$PROJECT_DIR$/src/com/ford/MyPackage/PaperStrip.java" />
+         <option value="$PROJECT_DIR$/src/com/ford/MyPackage/Train.java" />
++        <option value="$PROJECT_DIR$/src/com/ford/MyPackage/HelloWorld.java" />
+       </list>
+     </option>
+   </component>
+@@ -83,7 +111,6 @@
+     </navigator>
+     <panes>
+       <pane id="PackagesPane" />
+-      <pane id="Scope" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -96,10 +123,17 @@
+               <item name="MyJavaProjects" type="462c0819:PsiDirectoryNode" />
+               <item name="src" type="462c0819:PsiDirectoryNode" />
+             </path>
++            <path>
++              <item name="MyJavaProjects" type="b2602c69:ProjectViewProjectNode" />
++              <item name="MyJavaProjects" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="MyPackage" type="462c0819:PsiDirectoryNode" />
++            </path>
+           </expand>
+           <select />
+         </subPane>
+       </pane>
++      <pane id="Scope" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+@@ -127,7 +161,7 @@
+       </list>
+     </option>
+   </component>
+-  <component name="RunManager" selected="Application.Train">
++  <component name="RunManager" selected="Application.HelloWorld">
+     <configuration name="GenericLambda (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.ford.MyPackage.GenericLambda" />
+       <module name="MyJavaProjects" />
+@@ -154,6 +188,19 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.ford.MyPackage.HelloWorld" />
++      <module name="MyJavaProjects" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.ford.MyPackage.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="PaperStrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.ford.MyPackage.PaperStrip" />
+       <module name="MyJavaProjects" />
+@@ -204,9 +251,11 @@
+       <item itemvalue="Application.PaperStrip" />
+       <item itemvalue="Application.Train" />
+       <item itemvalue="JAR Application.MyJavaProjectsApp" />
++      <item itemvalue="Application.HelloWorld" />
+     </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.HelloWorld" />
+         <item itemvalue="Application.Train" />
+         <item itemvalue="Application.PaperStrip" />
+         <item itemvalue="Application.GenericLambda (1)" />
+@@ -214,6 +263,9 @@
+       </list>
+     </recent_temporary>
+   </component>
++  <component name="StructureViewFactory">
++    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
++  </component>
+   <component name="SvnConfiguration">
+     <configuration />
+   </component>
+@@ -228,10 +280,10 @@
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
++    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+     <layout>
+-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
++      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26066098" />
++      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.26066098" />
+       <window_info id="Image Layers" order="2" />
+       <window_info id="Designer" order="3" />
+       <window_info id="UI Designer" order="4" />
+@@ -239,15 +291,15 @@
+       <window_info id="Favorites" order="6" side_tool="true" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
++      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32900432" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+       <window_info anchor="bottom" id="TODO" order="6" />
+-      <window_info anchor="bottom" id="Terminal" order="7" />
+-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32900432" />
+-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" visible="true" weight="0.32900432" />
+-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900432" />
++      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32900432" />
++      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.3300866" />
++      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4968017" visible="true" weight="0.3300866" />
++      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" weight="0.32900432" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+@@ -258,6 +310,40 @@
+       <window_info anchor="right" id="Palette&#9;" order="7" />
+     </layout>
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="RECENTLY_FILTERED_USER_GROUPS">
++                <collection />
++              </option>
++              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
++                <collection />
++              </option>
++              <option name="COLUMN_ORDER">
++                <list>
++                  <option value="0" />
++                  <option value="1" />
++                  <option value="2" />
++                  <option value="3" />
++                </list>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <ignored-roots>
++      <path value="$PROJECT_DIR$/MyJavaProjects" />
++    </ignored-roots>
++    <MESSAGE value="Added Feature Branch" />
++    <MESSAGE value="Added Feature Branch (Small correction)" />
++    <option name="LAST_COMMIT_MESSAGE" value="Added Feature Branch (Small correction)" />
++  </component>
+   <component name="editorHistoryManager">
+     <entry file="file://$PROJECT_DIR$/src/MyPackage/LamdaInterface.java" />
+     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+@@ -279,8 +365,19 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/com/ford/MyPackage/Train.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="153">
+-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
++        <state relative-caret-position="238">
++          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/com/ford/MyPackage/HelloWorld.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="136">
++          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
++          <folding>
++            <element signature="e#97#98#0" expanded="true" />
++            <element signature="e#154#155#0" expanded="true" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n    <mapping directory=\"$PROJECT_DIR$/MyJavaProjects\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1584520855000)
++++ .idea/vcs.xml	(date 1584523348266)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/MyJavaProjects" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
